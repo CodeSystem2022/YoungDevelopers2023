@@ -1,8 +1,8 @@
-#Young Developers
+# Young Developers
 
 Somos un grupo de estudiantes de la Tecnicatura Universitaria en Programación.
 
-##Integrantes y asignaciones como Scrum Master
+## Integrantes y asignaciones como Scrum Master
 * Agustín Ceschin (Semana 1)
 * Micaela Diaz (Semana 2)
 * Lucas Montoya (Semana 3)
