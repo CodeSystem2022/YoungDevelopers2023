@@ -1,14 +1,18 @@
-# Young Developers
+#Young Developers
 
-## Integrantes
-* Agustín Ceschin
-* Micaela Diaz
-* Lucas Montoya
-* Valentín Morbidelli
-* Lourdes Rebolledo
-* Lujan Rebolledo
-* Ana Zambrana
+Somos un grupo de estudiantes de la Tecnicatura Universitaria en Programación.
+
+##Integrantes y asignaciones como Scrum Master
+* Agustín Ceschin (Semana 1)
+* Micaela Diaz (Semana 2)
+* Lucas Montoya (Semana 3)
+* Valentín Morbidelli (Semana 4)
+* Lourdes Rebolledo (Semana 5)
+* Lujan Rebolledo (Semana 6)
+* Ana Zambrana (Semana 7)
 
 El objetivo de este proyecto es mantener un registro de actividades y soluciones para el cursado del tercer semestre de la Tecnicatura Universitaria en Programación. Todas las contribuciones son hechas por los miembros del equipo en base a lo visto en las clases.
 
-Agradecemos el constante esfuerzo de los miembros del grupo.
+Con el fin de mantener un proyecto limpio y en condiciones cada integrante tiene una semana asignada, en donde van a cumplir las funciones de Scrum Master y asegurarse de la correcta evolución del proyecto.
+
+Agradecemos el constante esfuerzo de los integrandes del grupo.
