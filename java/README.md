@@ -9,3 +9,7 @@ Los temas que componen la tecnicatura universitaria se van repartiendo a los int
 ## Semana 2
 * Lucas
 * Valentín
+
+## Semana 3
+* Agustín
+* Ana
