@@ -12,3 +12,16 @@ Los temas que componen la tecnicatura universitaria se van repartiendo a los int
 ## Semana 3
 * Micaela
 * Lujan
+
+## Semana 4
+* Lucas
+* Valentín
+
+## Semana 5
+* Agustín
+* Ana
+
+## Semana 6
+* micaela
+* Lujan
+* Lourdes
