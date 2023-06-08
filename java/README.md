@@ -14,3 +14,9 @@ Los temas que componen la tecnicatura universitaria se van repartiendo a los int
 * Agustín
 * Ana
 * Lourdes
+
+## Semana 4
+* Lucas
+* Valentín
+* Lujan
+* Lourdes
