@@ -20,3 +20,7 @@ Los temas que componen la tecnicatura universitaria se van repartiendo a los int
 
 ## Semana 5
 * Lucas
+
+## Semana 6
+* Lujan
+* Lourdes
