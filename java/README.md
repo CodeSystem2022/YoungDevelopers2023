@@ -20,3 +20,8 @@ Los temas que componen la tecnicatura universitaria se van repartiendo a los int
 * Valentín
 * Lujan
 * Lourdes
+
+## Semana 5
+* Lujan
+* Micaela
+* Valentin
