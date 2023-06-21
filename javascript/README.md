@@ -19,9 +19,7 @@ Los temas que componen la tecnicatura universitaria se van repartiendo a los int
 * Ana
 
 ## Semana 5
-* Micaela
-* Lourdes
-* Lujan
+* Lucas
 
 ## Semana 6
 * Lucas
