@@ -22,8 +22,8 @@ Los temas que componen la tecnicatura universitaria se van repartiendo a los int
 * Lucas
 
 ## Semana 6
-* Lucas
-* Valentín
+* Lourdes
+* Lujan
 
 ## Semana 7
 * Agustín
