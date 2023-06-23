@@ -7,7 +7,7 @@ conexion = psycopg2.connect(
     port='5432',
     database='test_db'
 )
-print(conexion)
+
 
 #vamos a crear un cursor que nos permite ejecutar sentencias sql en postgres
 cursor = conexion.cursor()
@@ -16,6 +16,11 @@ cursor.execute(sentencia)
 #recuperamos registro,fetchall nos permite  recuperar todos los registros
 # de la sentencia que se ha ejecutado
 registros = cursor.fetchall()
+# imprimimos los registros de nuestra base de datos
+print(registros)
+# cerramos la conexion
+cursor.close()
+cursor.close()
 
 
 
