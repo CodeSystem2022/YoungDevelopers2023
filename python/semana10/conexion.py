@@ -23,3 +23,30 @@ class Conexion:
     @classmethod
     def obtenerCursor(cls):
         pass
+#Parte 2- Valentin Morbidelli
+@classmethod
+    def obtenerPool(cls):
+        if cls._pool is None:
+            try:
+                cls.pool = pool.SimpleConnectionPool(cls._MIN_CON,
+                                                     cls._MAX_CON,
+                                                     host=cls._HOST,
+                                                     user=cls._USERNAME,
+                                                     password=cls._PASSWORD,
+                                                     port=cls._DB_PORT,
+                                                     database=cls._DATABASE)
+                log.debug(f'creacion del pool exitosa: {cls._pool}')
+                return cls._pool
+            except Exception as e:
+                log.error(f'Ocurrió un error al obtener el pool: {e}')
+                sys.exit()
+        else:
+            return cls._pool
+
+    if __name__ == '__main__':
+        conexion1 = Conexion.obtenerConexion()
+        conexion2 = Conexion.obtenerConexion()
+        conexion3 = Conexion.obtenerConexion()
+        conexion4 = Conexion.obtenerConexion()
+        conexion5 = Conexion.obtenerConexion()
+        conexion6 = Conexion.obtenerConexion()
