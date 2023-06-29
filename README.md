@@ -10,6 +10,13 @@ Somos un grupo de estudiantes de la Tecnicatura Universitaria en Programación.
 * Lourdes Rebolledo (Semana 5)
 * Lujan Rebolledo (Semana 6)
 * Ana Zambrana (Semana 7)
+* Agustín Ceschin (Semana 8)
+* Micaela Diaz (Semana 9)
+* Lucas Montoya (Semana 10)
+* Valentín Morbidelli (Semana 11)
+* Lourdes Rebolledo (Semana 12)
+* Lujan Rebolledo (Semana 13)
+* Ana Zambrana (Semana 14)
 
 El objetivo de este proyecto es mantener un registro de actividades y soluciones para el cursado del tercer semestre de la Tecnicatura Universitaria en Programación. Todas las contribuciones son hechas por los miembros del equipo en base a lo visto en las clases.
 
