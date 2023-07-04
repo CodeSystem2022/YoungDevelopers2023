@@ -3,7 +3,22 @@
 # Young Developers
 
 Somos un grupo de estudiantes de la Tecnicatura Universitaria en Programación.
-
+| INTEGRANTES | SEMANA |
+| ------------ | ------------ |
+| Agustín Ceschin  | Semana 1  |
+|  Micaela Diaz | Semana 2  |
+| Lucas Montoya  |  Semana 3 |
+|  Valentín Morbidelli | Semana 4  |
+|  Lourdes Rebolledo | Semana 5  |
+|  Lujan Rebolledo |  Semana 6 |
+| Ana Zambrana  | Semana 7  |
+|  Agustín Ceschin | Semana 8  |
+| Micaela Diaz  |  Semana 9 |
+| Lucas Montoya  |  Semana 10 |
+|  Valentín Morbidelli  | Semana 11 |
+|  Lourdes Rebolledo |  Semana 12 |
+|  Lujan Rebolledo |  Semana 13 |
+|  Ana Zambrana | Semana 14  |
 ## Integrantes y asignaciones como Scrum Master
 * Agustín Ceschin (Semana 1)
 * Micaela Diaz (Semana 2)
