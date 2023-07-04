@@ -2,9 +2,8 @@
 <p align="center">
   <img src="https://i.postimg.cc/gjyVc89P/Youngd.png)](https://postimg.cc/ZvRBV9Kf" alt="Texto alternativo" width="500" height="500">
 </p>
-# Young Developers
 
-Somos un grupo de estudiantes de la Tecnicatura Universitaria en Programación.
+:notebook: Somos un grupo de estudiantes de la Tecnicatura Universitaria en Programación.:notebook:
 
 ## Integrantes y asignaciones como Scrum Master
 | INTEGRANTES | SEMANA |
