@@ -28,4 +28,4 @@ El objetivo de este proyecto es mantener un registro de actividades y soluciones
 
 Con el fin de mantener un proyecto limpio y en condiciones cada integrante tiene una semana asignada, en donde van a cumplir las funciones de Scrum Master y asegurarse de la correcta evolución del proyecto.
 
-En el transcurso del cursado se estarán realizando trabajos en Java, JavaScript y Python, estos serán rotados a la hora de su realización a los distintos miembros del grupo, es decir, que todos en el proyecto van a tener la posibilidad de colaborar y a su vez aprender los distintos lenguajes de programación con los que se trabajan.
+En el transcurso del cursado se estarán realizando trabajos en Java, JavaScript y Python, estos serán rotados a la hora de su realización a los distintos miembros del grupo, es decir, que todos en el proyecto van a tener la posibilidad de colaborar y a su vez aprender los distintos lenguajes de programación con los que se trabajan. :coffee:
