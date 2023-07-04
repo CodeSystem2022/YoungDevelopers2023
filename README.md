@@ -1,5 +1,4 @@
-![Young Developers](C:\Users\valem\OneDrive\Escritorio\Python+MongoDB\Youngd.png)
-
+[![Youngd.png](https://i.postimg.cc/gjyVc89P/Youngd.png)](https://postimg.cc/ZvRBV9Kf)
 # Young Developers
 
 Somos un grupo de estudiantes de la Tecnicatura Universitaria en Programación.
