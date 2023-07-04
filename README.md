@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="[ruta_de_la_imagen](https://i.postimg.cc/gjyVc89P/Youngd.png)](https://postimg.cc/ZvRBV9Kf)" alt="Texto alternativo" width="300" height="200">
-</p>
+
 [![Youngd.png](https://i.postimg.cc/gjyVc89P/Youngd.png)](https://postimg.cc/ZvRBV9Kf)
 # Young Developers
 
