@@ -1,3 +1,5 @@
+![Young Developers](C:\Users\valem\OneDrive\Escritorio\Python+MongoDB\Youngd.png)
+
 # Young Developers
 
 Somos un grupo de estudiantes de la Tecnicatura Universitaria en Programación.
