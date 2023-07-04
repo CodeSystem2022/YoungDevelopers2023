@@ -45,3 +45,60 @@ public class EstudianteDAO {
         }//fin finally
         return estudiantes;
     }//fin metodo listar
+
+    
+    //método por id-> fin by id
+    public boolean buscarEstudianteporId(Estudiante estudiante){
+        PreparedStatement ps;
+        ResultSet rs;
+        Connection con = getCONNECTION();
+        String sql = "SELECT * FROM estudiantes WWHERE idestudiantes=?";
+        try {
+            ps = con.prepareStatement(sql);
+            ps.setInt(1, estudiante.getIdEstudiante());
+            rs = ps.executeQuery();
+            if (rs.next()){
+                estudiante.setNombre(rs.getString("nombre"));
+                estudiante.setApellido(rs.getString("apellido"));
+                estudiante.setTelefono(rs.getString("telefono"));
+                estudiante.setEmail(rs.getString("email"));
+                return true;//se encontro un registro
+            }//fin if
+        }catch(Exception e){
+            System.out.println("Ocurrio un error al buscar estudiante:"+e.getMessage());
+        }//fin catch
+        finally {
+            try{
+                con.close();
+            }catch (Exception e){
+                System.out.println("ocurrio un error al cerrar conexion:"+e.getMessage());
+            }//fin catch
+        }//fin finally
+        return false;
+    }
+    //Metodo agregar un nuevo estudiante
+    public boolean agregarEstudiante(Estudiante estudiante){
+        PreparedStatement ps;
+        Connection con = getCONNECTION();
+        String sql = "INSERT INTO estudiantes(nombre,apellido,telefono,email)VALUES (?,?,?,?)";
+        try{
+            ps = con.prepareStatement(sql);
+            ps.setString(1, estudiante.getNombre());
+            ps.setString(2, estudiante.getApellido());
+            ps.setString(3, estudiante.getTelefono());
+            ps.setString(4, estudiante.getEmail());
+            ps.execute();
+            return  true;
+
+        }catch(Exception e){
+            System.out.println("ocurrio un error ");
+        }//fin catch
+        finally{
+          try{
+              con.close();
+          }catch(Exception e){
+              System.out.println("error al cerrar la conexion:"+e.getMessage());
+          }//fin catch
+        }//fin finally
+        return false;
+    }//fin metodo agregar estudiante
