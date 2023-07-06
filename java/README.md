@@ -50,4 +50,14 @@ Los temas que componen la tecnicatura universitaria se van repartiendo a los int
 
 ## Semana 11
 * Lucas
-* Valentin 
+* Valentin
+* Micaela
+
+ ## Semana 12
+* Lucas
+* Valentin
+* Micaela
+* Lourdes
+* Agustin
+* Ana
+* Lujan 
