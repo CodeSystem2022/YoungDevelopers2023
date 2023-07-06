@@ -39,4 +39,37 @@ class Orden{
         this._productos = []; 
         this._contadorProductosAgregados = 0; 
     }
+    get idOrden(){
+        return this._idOrden;
+    }
+    agregarProducto(producto){
+        if(this._productos.length < Orden.getMAX_PRODUCTOS()){
+            this._productos.push(producto);
+            //this._productos[this._contadorProductosAgregados++] = producto;
+        }
+        else {
+            console.log("No se pueden agregar más productos");
+        }
+    }
+    calcularTotal(){
+        let totalVenta = 0;
+        for(let producto of this._productos){
+            totalVenta += producto.precio;
+        }
+        return totalVenta;
+    }
+    mostrarOrden(){
+        let productoOrden = ' ';
+        for(let producto of this._productos){
+            productoOrden += producto.toString()+' ';
+        }
+        console.log(`Orden: ${this.idOrden}, Total: $${this.calcularTotal()}, Productos: ${productoOrden}`);
+    }
+}
 
+let producto1 = new Producto("Pantalon", 200);
+let producto2 = new Producto("Camisa", 150);
+let orden1 = new Orden();
+orden1.agregarProducto(producto1);
+orden1.agregarProducto(producto2);
+mostrarOrden();
