@@ -46,4 +46,6 @@ Los temas que componen la tecnicatura universitaria se van repartiendo a los int
 ## Semana 11
 * Agustin
 * Ana
+* Lourdes
+* Lujan
   
